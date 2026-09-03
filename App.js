@@ -1,6 +1,6 @@
 import { View, Text, TextInput, TouchableOpacity, StyleSheet, Image } from 'react-native';
 
-export default function LoginScreen() {
+export default function App() {
 
   return (
     <View style={styles.container}>
